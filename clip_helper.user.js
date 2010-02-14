@@ -33,7 +33,7 @@
 
 // Add jQuery
 var GM_JQ = document.createElement('script');
-GM_JQ.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js';
+GM_JQ.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js';
 GM_JQ.type = 'text/javascript';
 document.getElementsByTagName('head')[0].appendChild(GM_JQ);
 
