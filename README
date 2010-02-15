@@ -1,3 +1,6 @@
+Actualização em 15 de Fevereiro de 2010:
+A funcionalidade do CLIP Helper foi implementada no CLIP e está actualmente em testes, portanto, caso seja mantida, este script poderá brevemente deixar de ser necessário. Ver: https://forum.fct.unl.pt/cgi-bin/topic_show.pl?tid=2457
+
 Este é um script que criei para auxiliar na escolha de turnos no sistema CLIP da UNL.
 
 Ao escolher os turnos das minhas aulas, muitas vezes tinha dificuldade em perceber se um determinado turno era uma boa escolha ou não porque não era claro quais os outros dias em que aquele turno teria lugar. Não é nenhuma tarefa impossível mas se fosse possível perceber imediatamente qual o "par" do turno que estou a considerar, seria mais rápido do que ter que andar à procura dele lá pelo meio dos outros turnos todos.
